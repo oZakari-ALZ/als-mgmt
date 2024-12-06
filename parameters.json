@@ -1,0 +1,24 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": [
+    "1",
+    "2",
+    "3"
+  ],
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-als-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "424b3b97-803e-4cfc-bb6e-83c422490386",
+  "IDENTITY_SUBSCRIPTION_ID": "c82a182e-b74b-4218-b1d8-1c9e981ceff9",
+  "LOCATION": "eastus2",
+  "LOGGING_RESOURCE_GROUP": "rg-als-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "b6fb3c43-1fce-4636-a837-2ad04e1a5d5a",
+  "NETWORK_TYPE": "hubNetworking",
+  "MANAGEMENT_GROUP_ID": "als",
+  "PREFIX": "als",
+  "RELEASE_VERSION": "v0.20.1",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "9cbf111d-1374-4b91-ad3c-694790cba44e",
+  "SECONDARYLOCATION": "westus2"
+}
