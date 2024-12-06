@@ -39,7 +39,7 @@
       "value": "eastus"
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/b6fb3c43-1fce-4636-a837-2ad04e1a5d5a/resourcegroups/rg-als-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/69ac80fe-dbff-4971-9cba-9cb384486ba5/resourcegroups/rg-als-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
     },
     "parLogAnalyticsWorkspaceLogRetentionInDays": {
       "value": "365"
@@ -48,16 +48,16 @@
       "value": "allLogs"
     },
     "parDataCollectionRuleVMInsightsResourceId": {
-      "value": "/subscriptions/b6fb3c43-1fce-4636-a837-2ad04e1a5d5a/resourcegroups/rg-als-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-vmi-dcr"
+      "value": "/subscriptions/69ac80fe-dbff-4971-9cba-9cb384486ba5/resourcegroups/rg-als-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-vmi-dcr"
     },
     "parDataCollectionRuleChangeTrackingResourceId": {
-      "value": "/subscriptions/b6fb3c43-1fce-4636-a837-2ad04e1a5d5a/resourcegroups/rg-als-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-ct-dcr"
+      "value": "/subscriptions/69ac80fe-dbff-4971-9cba-9cb384486ba5/resourcegroups/rg-als-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-ct-dcr"
     },
     "parDataCollectionRuleMDFCSQLResourceId": {
-      "value": "/subscriptions/b6fb3c43-1fce-4636-a837-2ad04e1a5d5a/resourcegroups/rg-als-logging/providers/Microsoft.Insights/dataCollectionRules/ama-mdfcsql-default-dcr"
+      "value": "/subscriptions/69ac80fe-dbff-4971-9cba-9cb384486ba5/resourcegroups/rg-als-logging/providers/Microsoft.Insights/dataCollectionRules/ama-mdfcsql-default-dcr"
     },
     "parUserAssignedManagedIdentityResourceId": {
-      "value": "/subscriptions/b6fb3c43-1fce-4636-a837-2ad04e1a5d5a/resourcegroups/rg-als-logging/providers/Microsoft.ManagedIdentity/userAssignedIdentities/alz-umi-identity"
+      "value": "/subscriptions/69ac80fe-dbff-4971-9cba-9cb384486ba5/resourcegroups/rg-als-logging/providers/Microsoft.ManagedIdentity/userAssignedIdentities/alz-umi-identity"
     },
     "parAutomationAccountName": {
       "value": "alz-automation-account"
@@ -66,10 +66,10 @@
       "value": "ztrocinski@outlook.com"
     },
     "parDdosProtectionPlanId": {
-      "value": "/subscriptions/424b3b97-803e-4cfc-bb6e-83c422490386/resourceGroups/rg-als-connectivity/providers/Microsoft.Network/ddosProtectionPlans/alz-ddos-plan"
+      "value": "/subscriptions/a9467115-24cc-4747-9bbb-1fa45921a1b2/resourceGroups/rg-als-connectivity/providers/Microsoft.Network/ddosProtectionPlans/alz-ddos-plan"
     },
     "parPrivateDnsResourceGroupId": {
-      "value": "/subscriptions/424b3b97-803e-4cfc-bb6e-83c422490386/resourceGroups/rg-als-connectivity"
+      "value": "/subscriptions/a9467115-24cc-4747-9bbb-1fa45921a1b2/resourceGroups/rg-als-connectivity"
     },
     "parPrivateDnsZonesLocation": {
       "value": "eastus2"
