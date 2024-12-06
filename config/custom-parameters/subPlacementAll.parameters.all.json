@@ -1,0 +1,63 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "parTopLevelManagementGroupPrefix": {
+      "value": "als"
+    },
+    "parTopLevelManagementGroupSuffix": {
+      "value": ""
+    },
+    "parIntRootMgSubs": {
+      "value": []
+    },
+    "parPlatformMgSubs": {
+      "value": []
+    },
+    "parPlatformManagementMgSubs": {
+      "value": [
+        "b6fb3c43-1fce-4636-a837-2ad04e1a5d5a"
+      ]
+    },
+    "parPlatformConnectivityMgSubs": {
+      "value": [
+        "424b3b97-803e-4cfc-bb6e-83c422490386"
+      ]
+    },
+    "parPlatformIdentityMgSubs": {
+      "value": [
+        "c82a182e-b74b-4218-b1d8-1c9e981ceff9"
+      ]
+    },
+    "parLandingZonesMgSubs": {
+      "value": []
+    },
+    "parLandingZonesCorpMgSubs": {
+      "value": []
+    },
+    "parLandingZonesOnlineMgSubs": {
+      "value": []
+    },
+    "parLandingZonesConfidentialCorpMgSubs": {
+      "value": []
+    },
+    "parLandingZonesConfidentialOnlineMgSubs": {
+      "value": []
+    },
+    "parLandingZoneMgChildrenSubs": {
+      "value": {}
+    },
+    "parPlatformMgChildrenSubs": {
+      "value": {}
+    },
+    "parDecommissionedMgSubs": {
+      "value": []
+    },
+    "parSandboxMgSubs": {
+      "value": []
+    },
+    "parTelemetryOptOut": {
+      "value": false
+    }
+  }
+}
